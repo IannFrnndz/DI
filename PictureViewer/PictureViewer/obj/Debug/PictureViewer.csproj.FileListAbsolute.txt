@@ -1,0 +1,11 @@
+C:\Users\CAMPUSFP\Desktop\DI\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\CAMPUSFP\Desktop\DI\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\CAMPUSFP\Desktop\DI\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\CAMPUSFP\Desktop\DI\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.AssemblyReference.cache
+C:\Users\CAMPUSFP\Desktop\DI\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+C:\Users\CAMPUSFP\Desktop\DI\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\CAMPUSFP\Desktop\DI\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+C:\Users\CAMPUSFP\Desktop\DI\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\CAMPUSFP\Desktop\DI\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\CAMPUSFP\Desktop\DI\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
+C:\Users\CAMPUSFP\Desktop\DI\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe.config
