@@ -1,0 +1,11 @@
+C:\Users\CAMPUSFP\Desktop\DI\Prueba\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\CAMPUSFP\Desktop\DI\Prueba\Prueba\bin\Debug\Prueba.exe
+C:\Users\CAMPUSFP\Desktop\DI\Prueba\Prueba\bin\Debug\Prueba.pdb
+C:\Users\CAMPUSFP\Desktop\DI\Prueba\Prueba\obj\Debug\Prueba.csproj.AssemblyReference.cache
+C:\Users\CAMPUSFP\Desktop\DI\Prueba\Prueba\obj\Debug\Prueba.Form1.resources
+C:\Users\CAMPUSFP\Desktop\DI\Prueba\Prueba\obj\Debug\Prueba.Properties.Resources.resources
+C:\Users\CAMPUSFP\Desktop\DI\Prueba\Prueba\obj\Debug\Prueba.csproj.GenerateResource.cache
+C:\Users\CAMPUSFP\Desktop\DI\Prueba\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\CAMPUSFP\Desktop\DI\Prueba\Prueba\obj\Debug\Prueba.exe
+C:\Users\CAMPUSFP\Desktop\DI\Prueba\Prueba\obj\Debug\Prueba.pdb
+C:\Users\CAMPUSFP\Desktop\DI\Prueba\Prueba\obj\Debug\Prueba.UserControl1.resources
