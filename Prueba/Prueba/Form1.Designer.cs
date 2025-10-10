@@ -60,9 +60,9 @@
             // 
             this.userControl12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.userControl12.Location = new System.Drawing.Point(409, 67);
-            this.userControl12.Mensaje = null;
+            this.userControl12.Mensaje = "Adios";
             this.userControl12.Name = "userControl12";
-            this.userControl12.Size = new System.Drawing.Size(311, 130);
+            this.userControl12.Size = new System.Drawing.Size(311, 119);
             this.userControl12.TabIndex = 3;
             this.userControl12.Load += new System.EventHandler(this.userControl12_Load);
             // 

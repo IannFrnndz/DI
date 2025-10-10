@@ -9,3 +9,4 @@ C:\Users\CAMPUSFP\Desktop\DI\Prueba\Prueba\obj\Debug\Prueba.csproj.CoreCompileIn
 C:\Users\CAMPUSFP\Desktop\DI\Prueba\Prueba\obj\Debug\Prueba.exe
 C:\Users\CAMPUSFP\Desktop\DI\Prueba\Prueba\obj\Debug\Prueba.pdb
 C:\Users\CAMPUSFP\Desktop\DI\Prueba\Prueba\obj\Debug\Prueba.UserControl1.resources
+C:\Users\CAMPUSFP\Desktop\DI\Prueba\Prueba\obj\Debug\Prueba.exe.config
