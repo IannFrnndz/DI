@@ -71,7 +71,7 @@
             // lblTitulo
             // 
             this.lblTitulo.Font = new System.Drawing.Font("Monotype Corsiva", 36F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTitulo.Location = new System.Drawing.Point(133, 68);
+            this.lblTitulo.Location = new System.Drawing.Point(170, 72);
             this.lblTitulo.Name = "lblTitulo";
             this.lblTitulo.Size = new System.Drawing.Size(399, 68);
             this.lblTitulo.TabIndex = 3;

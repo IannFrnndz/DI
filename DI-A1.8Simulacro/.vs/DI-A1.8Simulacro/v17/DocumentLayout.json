@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\CAMPUSFP\\Desktop\\DI\\DI-A1.8Simulacro\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3CA21F19-0283-4492-ACFB-A7C7DDEE11EB}|DI-A1.8Simulacro\\DI-A1.8Simulacro.csproj|C:\\Users\\CAMPUSFP\\Desktop\\DI\\DI-A1.8Simulacro\\di-a1.8simulacro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3CA21F19-0283-4492-ACFB-A7C7DDEE11EB}|DI-A1.8Simulacro\\DI-A1.8Simulacro.csproj|solutionrelative:di-a1.8simulacro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3CA21F19-0283-4492-ACFB-A7C7DDEE11EB}|DI-A1.8Simulacro\\DI-A1.8Simulacro.csproj|c:\\users\\campusfp\\desktop\\di\\di-a1.8simulacro\\di-a1.8simulacro\\formcarta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3CA21F19-0283-4492-ACFB-A7C7DDEE11EB}|DI-A1.8Simulacro\\DI-A1.8Simulacro.csproj|solutionrelative:di-a1.8simulacro\\formcarta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CA21F19-0283-4492-ACFB-A7C7DDEE11EB}|DI-A1.8Simulacro\\DI-A1.8Simulacro.csproj|c:\\users\\campusfp\\desktop\\di\\di-a1.8simulacro\\di-a1.8simulacro\\formcarta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3CA21F19-0283-4492-ACFB-A7C7DDEE11EB}|DI-A1.8Simulacro\\DI-A1.8Simulacro.csproj|C:\\Users\\CAMPUSFP\\Desktop\\DI\\DI-A1.8Simulacro\\di-a1.8simulacro\\formcarta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CA21F19-0283-4492-ACFB-A7C7DDEE11EB}|DI-A1.8Simulacro\\DI-A1.8Simulacro.csproj|solutionrelative:di-a1.8simulacro\\formcarta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CA21F19-0283-4492-ACFB-A7C7DDEE11EB}|DI-A1.8Simulacro\\DI-A1.8Simulacro.csproj|c:\\users\\campusfp\\desktop\\di\\di-a1.8simulacro\\di-a1.8simulacro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3CA21F19-0283-4492-ACFB-A7C7DDEE11EB}|DI-A1.8Simulacro\\DI-A1.8Simulacro.csproj|solutionrelative:di-a1.8simulacro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CA21F19-0283-4492-ACFB-A7C7DDEE11EB}|DI-A1.8Simulacro\\DI-A1.8Simulacro.csproj|c:\\users\\campusfp\\desktop\\di\\di-a1.8simulacro\\di-a1.8simulacro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3CA21F19-0283-4492-ACFB-A7C7DDEE11EB}|DI-A1.8Simulacro\\DI-A1.8Simulacro.csproj|C:\\Users\\CAMPUSFP\\Desktop\\DI\\DI-A1.8Simulacro\\di-a1.8simulacro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CA21F19-0283-4492-ACFB-A7C7DDEE11EB}|DI-A1.8Simulacro\\DI-A1.8Simulacro.csproj|solutionrelative:di-a1.8simulacro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FormCarta.cs",
               "DocumentMoniker": "C:\\Users\\CAMPUSFP\\Desktop\\DI\\DI-A1.8Simulacro\\DI-A1.8Simulacro\\FormCarta.cs",
               "RelativeDocumentMoniker": "DI-A1.8Simulacro\\FormCarta.cs",
@@ -43,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FormCarta.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\CAMPUSFP\\Desktop\\DI\\DI-A1.8Simulacro\\DI-A1.8Simulacro\\FormCarta.cs",
               "RelativeDocumentMoniker": "DI-A1.8Simulacro\\FormCarta.cs",
@@ -68,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\CAMPUSFP\\Desktop\\DI\\DI-A1.8Simulacro\\DI-A1.8Simulacro\\Form1.cs",
               "RelativeDocumentMoniker": "DI-A1.8Simulacro\\Form1.cs",
