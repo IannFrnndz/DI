@@ -1,0 +1,14 @@
+C:\Users\CAMPUSFP\Desktop\DI\DI-A1.8Simulacro\DI-A1.8Simulacro\bin\Debug\DI-A1.8Simulacro.exe.config
+C:\Users\CAMPUSFP\Desktop\DI\DI-A1.8Simulacro\DI-A1.8Simulacro\bin\Debug\DI-A1.8Simulacro.exe
+C:\Users\CAMPUSFP\Desktop\DI\DI-A1.8Simulacro\DI-A1.8Simulacro\bin\Debug\DI-A1.8Simulacro.pdb
+C:\Users\CAMPUSFP\Desktop\DI\DI-A1.8Simulacro\DI-A1.8Simulacro\obj\Debug\DI-A1.8Simulacro.csproj.AssemblyReference.cache
+C:\Users\CAMPUSFP\Desktop\DI\DI-A1.8Simulacro\DI-A1.8Simulacro\obj\Debug\DI_A1._8Simulacro.FormCarta.resources
+C:\Users\CAMPUSFP\Desktop\DI\DI-A1.8Simulacro\DI-A1.8Simulacro\obj\Debug\DI_A1._8Simulacro.Properties.Resources.resources
+C:\Users\CAMPUSFP\Desktop\DI\DI-A1.8Simulacro\DI-A1.8Simulacro\obj\Debug\DI-A1.8Simulacro.csproj.GenerateResource.cache
+C:\Users\CAMPUSFP\Desktop\DI\DI-A1.8Simulacro\DI-A1.8Simulacro\obj\Debug\DI-A1.8Simulacro.csproj.CoreCompileInputs.cache
+C:\Users\CAMPUSFP\Desktop\DI\DI-A1.8Simulacro\DI-A1.8Simulacro\obj\Debug\DI-A1.8Simulacro.exe
+C:\Users\CAMPUSFP\Desktop\DI\DI-A1.8Simulacro\DI-A1.8Simulacro\obj\Debug\DI-A1.8Simulacro.pdb
+C:\Users\CAMPUSFP\Desktop\DI\DI-A1.8Simulacro\DI-A1.8Simulacro\obj\Debug\DI_A1._8Simulacro.FormInicio.resources
+C:\Users\CAMPUSFP\Desktop\DI\DI-A1.8Simulacro\DI-A1.8Simulacro\obj\Debug\DI_A1._8Simulacro.FormPedido.resources
+C:\Users\CAMPUSFP\Desktop\DI\DI-A1.8Simulacro\DI-A1.8Simulacro\obj\Debug\DI_A1._8Simulacro.Panel1.resources
+C:\Users\CAMPUSFP\Desktop\DI\DI-A1.8Simulacro\DI-A1.8Simulacro\obj\Debug\DI-A1.8Simulacro.exe.config

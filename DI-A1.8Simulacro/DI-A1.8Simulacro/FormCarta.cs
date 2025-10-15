@@ -21,5 +21,27 @@ namespace DI_A1._8Simulacro
         {
 
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void FormCarta_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel11_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnCerrar_Click(object sender, EventArgs e)
+        {
+            //FormInicio formInicio = new FormInicio();
+            this.Close();
+
+        }
     }
 }

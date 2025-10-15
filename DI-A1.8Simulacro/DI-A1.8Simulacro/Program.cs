@@ -16,7 +16,7 @@ namespace DI_A1._8Simulacro
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new FormInicio());
         }
     }
 }
