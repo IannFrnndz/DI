@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\CAMPUSFP\\Desktop\\DI\\DI-A1.9\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{21209D76-6FC3-4B29-AFB6-1484425BD434}|DI-A1.9\\DI-A1.9.csproj|C:\\Users\\CAMPUSFP\\Desktop\\DI\\DI-A1.9\\di-a1.9\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21209D76-6FC3-4B29-AFB6-1484425BD434}|DI-A1.9\\DI-A1.9.csproj|solutionrelative:di-a1.9\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21209D76-6FC3-4B29-AFB6-1484425BD434}|DI-A1.9\\DI-A1.9.csproj|C:\\Users\\CAMPUSFP\\Desktop\\DI\\DI-A1.9\\di-a1.9\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21209D76-6FC3-4B29-AFB6-1484425BD434}|DI-A1.9\\DI-A1.9.csproj|solutionrelative:di-a1.9\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21209D76-6FC3-4B29-AFB6-1484425BD434}|DI-A1.9\\DI-A1.9.csproj|C:\\Users\\CAMPUSFP\\Desktop\\DI\\DI-A1.9\\di-a1.9\\formsecundario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21209D76-6FC3-4B29-AFB6-1484425BD434}|DI-A1.9\\DI-A1.9.csproj|solutionrelative:di-a1.9\\formsecundario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21209D76-6FC3-4B29-AFB6-1484425BD434}|DI-A1.9\\DI-A1.9.csproj|C:\\Users\\CAMPUSFP\\Desktop\\DI\\DI-A1.9\\di-a1.9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21209D76-6FC3-4B29-AFB6-1484425BD434}|DI-A1.9\\DI-A1.9.csproj|solutionrelative:di-a1.9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{21209D76-6FC3-4B29-AFB6-1484425BD434}|DI-A1.9\\DI-A1.9.csproj|c:\\users\\campusfp\\desktop\\di\\di-a1.9\\di-a1.9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{21209D76-6FC3-4B29-AFB6-1484425BD434}|DI-A1.9\\DI-A1.9.csproj|solutionrelative:di-a1.9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21209D76-6FC3-4B29-AFB6-1484425BD434}|DI-A1.9\\DI-A1.9.csproj|c:\\users\\campusfp\\desktop\\di\\di-a1.9\\di-a1.9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21209D76-6FC3-4B29-AFB6-1484425BD434}|DI-A1.9\\DI-A1.9.csproj|solutionrelative:di-a1.9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21209D76-6FC3-4B29-AFB6-1484425BD434}|DI-A1.9\\DI-A1.9.csproj|c:\\users\\campusfp\\desktop\\di\\di-a1.9\\di-a1.9\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21209D76-6FC3-4B29-AFB6-1484425BD434}|DI-A1.9\\DI-A1.9.csproj|solutionrelative:di-a1.9\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21209D76-6FC3-4B29-AFB6-1484425BD434}|DI-A1.9\\DI-A1.9.csproj|c:\\users\\campusfp\\desktop\\di\\di-a1.9\\di-a1.9\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{21209D76-6FC3-4B29-AFB6-1484425BD434}|DI-A1.9\\DI-A1.9.csproj|solutionrelative:di-a1.9\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21209D76-6FC3-4B29-AFB6-1484425BD434}|DI-A1.9\\DI-A1.9.csproj|c:\\users\\campusfp\\desktop\\di\\di-a1.9\\di-a1.9\\formsecundario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{21209D76-6FC3-4B29-AFB6-1484425BD434}|DI-A1.9\\DI-A1.9.csproj|C:\\Users\\CAMPUSFP\\Desktop\\DI\\DI-A1.9\\di-a1.9\\formsecundario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21209D76-6FC3-4B29-AFB6-1484425BD434}|DI-A1.9\\DI-A1.9.csproj|solutionrelative:di-a1.9\\formsecundario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21209D76-6FC3-4B29-AFB6-1484425BD434}|DI-A1.9\\DI-A1.9.csproj|c:\\users\\campusfp\\desktop\\di\\di-a1.9\\di-a1.9\\formsecundario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{21209D76-6FC3-4B29-AFB6-1484425BD434}|DI-A1.9\\DI-A1.9.csproj|solutionrelative:di-a1.9\\formsecundario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,23 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\CAMPUSFP\\Desktop\\DI\\DI-A1.9\\DI-A1.9\\Form1.cs",
-              "RelativeDocumentMoniker": "DI-A1.9\\Form1.cs",
-              "ToolTip": "C:\\Users\\CAMPUSFP\\Desktop\\DI\\DI-A1.9\\DI-A1.9\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "DI-A1.9\\Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T08:38:03.355Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "UserControl1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\CAMPUSFP\\Desktop\\DI\\DI-A1.9\\DI-A1.9\\UserControl1.cs",
               "RelativeDocumentMoniker": "DI-A1.9\\UserControl1.cs",
@@ -62,33 +50,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserControl1.cs",
-              "DocumentMoniker": "C:\\Users\\CAMPUSFP\\Desktop\\DI\\DI-A1.9\\DI-A1.9\\UserControl1.cs",
-              "RelativeDocumentMoniker": "DI-A1.9\\UserControl1.cs",
-              "ToolTip": "C:\\Users\\CAMPUSFP\\Desktop\\DI\\DI-A1.9\\DI-A1.9\\UserControl1.cs",
-              "RelativeToolTip": "DI-A1.9\\UserControl1.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAewBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T08:42:40.05Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\CAMPUSFP\\Desktop\\DI\\DI-A1.9\\DI-A1.9\\Form1.cs",
               "RelativeDocumentMoniker": "DI-A1.9\\Form1.cs",
               "ToolTip": "C:\\Users\\CAMPUSFP\\Desktop\\DI\\DI-A1.9\\DI-A1.9\\Form1.cs",
               "RelativeToolTip": "DI-A1.9\\Form1.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAhwCEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAEwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-10T08:57:32.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormSecundario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\CAMPUSFP\\Desktop\\DI\\DI-A1.9\\DI-A1.9\\FormSecundario.cs",
+              "RelativeDocumentMoniker": "DI-A1.9\\FormSecundario.cs",
+              "ToolTip": "C:\\Users\\CAMPUSFP\\Desktop\\DI\\DI-A1.9\\DI-A1.9\\FormSecundario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "DI-A1.9\\FormSecundario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:04:30.784Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\Users\\CAMPUSFP\\Desktop\\DI\\DI-A1.9\\DI-A1.9\\UserControl1.cs",
+              "RelativeDocumentMoniker": "DI-A1.9\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\CAMPUSFP\\Desktop\\DI\\DI-A1.9\\DI-A1.9\\UserControl1.cs",
+              "RelativeToolTip": "DI-A1.9\\UserControl1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAvwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T08:42:40.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\CAMPUSFP\\Desktop\\DI\\DI-A1.9\\DI-A1.9\\Form1.cs",
+              "RelativeDocumentMoniker": "DI-A1.9\\Form1.cs",
+              "ToolTip": "C:\\Users\\CAMPUSFP\\Desktop\\DI\\DI-A1.9\\DI-A1.9\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "DI-A1.9\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T08:38:03.355Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "FormSecundario.cs",
               "DocumentMoniker": "C:\\Users\\CAMPUSFP\\Desktop\\DI\\DI-A1.9\\DI-A1.9\\FormSecundario.cs",
               "RelativeDocumentMoniker": "DI-A1.9\\FormSecundario.cs",
@@ -98,18 +110,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-10T09:06:44.267Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FormSecundario.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\CAMPUSFP\\Desktop\\DI\\DI-A1.9\\DI-A1.9\\FormSecundario.cs",
-              "RelativeDocumentMoniker": "DI-A1.9\\FormSecundario.cs",
-              "ToolTip": "C:\\Users\\CAMPUSFP\\Desktop\\DI\\DI-A1.9\\DI-A1.9\\FormSecundario.cs [Dise\u00F1o]",
-              "RelativeToolTip": "DI-A1.9\\FormSecundario.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T09:04:30.784Z",
-              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

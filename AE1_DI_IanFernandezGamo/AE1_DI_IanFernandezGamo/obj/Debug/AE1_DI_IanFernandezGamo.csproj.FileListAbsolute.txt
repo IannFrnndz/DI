@@ -1,0 +1,15 @@
+C:\Users\CAMPUSFP\Desktop\DI\AE1_DI_IanFernandezGamo\AE1_DI_IanFernandezGamo\bin\Debug\AE1_DI_IanFernandezGamo.exe.config
+C:\Users\CAMPUSFP\Desktop\DI\AE1_DI_IanFernandezGamo\AE1_DI_IanFernandezGamo\bin\Debug\AE1_DI_IanFernandezGamo.exe
+C:\Users\CAMPUSFP\Desktop\DI\AE1_DI_IanFernandezGamo\AE1_DI_IanFernandezGamo\bin\Debug\AE1_DI_IanFernandezGamo.pdb
+C:\Users\CAMPUSFP\Desktop\DI\AE1_DI_IanFernandezGamo\AE1_DI_IanFernandezGamo\obj\Debug\AE1_DI_IanFernandezGamo.csproj.AssemblyReference.cache
+C:\Users\CAMPUSFP\Desktop\DI\AE1_DI_IanFernandezGamo\AE1_DI_IanFernandezGamo\obj\Debug\AE1_DI_IanFernandezGamo.Form1.resources
+C:\Users\CAMPUSFP\Desktop\DI\AE1_DI_IanFernandezGamo\AE1_DI_IanFernandezGamo\obj\Debug\AE1_DI_IanFernandezGamo.FormDestinos.resources
+C:\Users\CAMPUSFP\Desktop\DI\AE1_DI_IanFernandezGamo\AE1_DI_IanFernandezGamo\obj\Debug\AE1_DI_IanFernandezGamo.Properties.Resources.resources
+C:\Users\CAMPUSFP\Desktop\DI\AE1_DI_IanFernandezGamo\AE1_DI_IanFernandezGamo\obj\Debug\AE1_DI_IanFernandezGamo.UserControl1.resources
+C:\Users\CAMPUSFP\Desktop\DI\AE1_DI_IanFernandezGamo\AE1_DI_IanFernandezGamo\obj\Debug\AE1_DI_IanFernandezGamo.csproj.GenerateResource.cache
+C:\Users\CAMPUSFP\Desktop\DI\AE1_DI_IanFernandezGamo\AE1_DI_IanFernandezGamo\obj\Debug\AE1_DI_IanFernandezGamo.csproj.CoreCompileInputs.cache
+C:\Users\CAMPUSFP\Desktop\DI\AE1_DI_IanFernandezGamo\AE1_DI_IanFernandezGamo\obj\Debug\AE1_DI_IanFernandezGamo.exe
+C:\Users\CAMPUSFP\Desktop\DI\AE1_DI_IanFernandezGamo\AE1_DI_IanFernandezGamo\obj\Debug\AE1_DI_IanFernandezGamo.pdb
+C:\Users\CAMPUSFP\Desktop\DI\AE1_DI_IanFernandezGamo\AE1_DI_IanFernandezGamo\obj\Debug\AE1_DI_IanFernandezGamo.exe.config
+C:\Users\CAMPUSFP\Desktop\DI\AE1_DI_IanFernandezGamo\AE1_DI_IanFernandezGamo\obj\Debug\AE1_DI_IanFernandezGamo.FormOfertas.resources
+C:\Users\CAMPUSFP\Desktop\DI\AE1_DI_IanFernandezGamo\AE1_DI_IanFernandezGamo\obj\Debug\AE1_DI_IanFernandezGamo.FormReservas.resources

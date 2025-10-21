@@ -168,6 +168,9 @@
             // 
             // panel11
             // 
+            this.panel11.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.panel11.BackColor = System.Drawing.Color.AntiqueWhite;
             this.panel11.Location = new System.Drawing.Point(295, 74);
             this.panel11.Name = "panel11";
