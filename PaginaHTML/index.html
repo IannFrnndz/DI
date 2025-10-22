@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>GameIan</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- tabs sin JS -->
+  <input type="radio" name="tabs" id="tab-home" checked class="tab-input" />
+  <input type="radio" name="tabs" id="tab-details" class="tab-input" />
+  <input type="radio" name="tabs" id="tab-extras" class="tab-input" />
+
+  <header class="site-header" role="banner">
+    <div class="brand">
+      <h1>GameIan</h1>
+      
+    </div>
+
+    <nav class="tabs" role="navigation" aria-label="Pestañas principales">
+      <label for="tab-home" class="tab"> Inicio</label>
+      <label for="tab-details" class="tab"> Detalles</label>
+      <label for="tab-extras" class="tab"> Extras</label>
+    </nav>
+  </header>
+
+  <main id="app" role="main">
+    <!-- HOME -->
+    <section id="home-panel" class="panel" aria-labelledby="tab-home">
+      <div class="controls">
+        <form class="search" role="search" onsubmit="return false;">
+          <input id="search" type="search" placeholder="Buscar juegos " aria-label="Buscar" disabled />
+        </form>
+
+        <div class="filters" aria-hidden="true">
+          <select disabled><option>Plataforma </option></select>
+          <select disabled><option>Género </option></select>
+        </div>
+      </div>
+
+      <section class="cards" aria-label="Lista de juegos visual">
+        <article class="card">
+          <div class="thumb" style="background-image:url('VrUrFR.png')" role="img" aria-label="Nebula Conflict"></div>
+          <h3>Nebula Conflict</h3>
+          <p class="desc">FPS espacial con campaña y multijugador.</p>
+          <p class="extra"><strong>PC</strong> · 29.99€</p>
+          <label for="tab-details" class="btn">Ver detalles</label>
+        </article>
+
+        <article class="card">
+          <div class="thumb" style="background-image:url('bor2.jpg')" role="img" aria-label="Borderlands"></div>
+          <h3>Borderlands</h3>
+          <p class="desc">RPG / Shooter con humor y misiones.</p>
+          <p class="extra"><strong>PS5</strong> · 59.99€</p>
+          <label for="tab-details" class="btn">Ver detalles</label>
+        </article>
+
+        <article class="card">
+          <div class="thumb" style="background-image:url('cy.jpg')" role="img" aria-label="Cyber Shadow"></div>
+          <h3>Cyber Shadow</h3>
+          <p class="desc">Plataformas retro y acción.</p>
+          <p class="extra"><strong>Switch</strong> · 14.99€</p>
+          <label for="tab-details" class="btn">Ver detalles</label>
+        </article>
+
+        <article class="card">
+          <div class="thumb" style="background-image:url('e.jpg')" role="img" aria-label="Empire Tactics"></div>
+          <h3>Empire Tactics</h3>
+          <p class="desc">Estrategia por turnos y gestión.</p>
+          <p class="extra"><strong>PC</strong> · 39.99€</p>
+          <label for="tab-details" class="btn">Ver detalles</label>
+        </article>
+
+        <article class="card">
+          <div class="thumb" style="background-image:url('r.jpg')" role="img" aria-label="Rogue Melody"></div>
+          <h3>Rogue Melody</h3>
+          <p class="desc">Aventura rítmica con elementos roguelike.</p>
+          <p class="extra"><strong>Xbox</strong> · 19.99€</p>
+          <label for="tab-details" class="btn">Ver detalles</label>
+        </article>
+
+        <article class="card">
+          <div class="thumb" style="background-image:url('o.jpg')" role="img" aria-label="Outward"></div>
+          <h3>Outward</h3>
+          <p class="desc">MMO / Exploración y alianzas.</p>
+          <p class="extra"><strong>PC</strong> · Free-to-Play</p>
+          <label for="tab-details" class="btn">Ver detalles</label>
+        </article>
+      </section>
+    </section>
+
+    <!-- DETAILS -->
+    <section id="details-panel" class="panel" aria-labelledby="tab-details">
+      <article class="details">
+        <div class="detail-thumb" style="background-image:url('VrUrFR.png')" role="img" aria-label="Nebula Conflict"></div>
+        <div class="detail-body">
+          <h2>Nebula Conflict </h2>
+          <p class="muted">Acción · PC</p>
+          <p>Ejemplo de página de detalles hecha sin JavaScript. Aquí se muestra información fija del juego para cumplir el requisito visual.</p>
+
+          <ul class="meta">
+            <li>Plataforma: PC</li>
+            <li>Precio: 29.99€</li>
+            <li>Fecha: 2025-09-12</li>
+          </ul>
+
+          <form class="fake-form" onsubmit="return false;" aria-label="Formulario simulado">
+            <fieldset>
+              <legend>Acción (simulada)</legend>
+              <label><input type="radio" name="action" checked disabled> Comprar</label>
+              <label><input type="radio" name="action" disabled> Lista de deseos</label>
+              <label><input type="radio" name="action" disabled> Comentar</label>
+            </fieldset>
+
+            <textarea placeholder="Comentario " disabled></textarea>
+
+            
+
+            <div id="result" class="result">
+              <p><strong>Resultado:</strong> Acción simulada con éxito (visual).</p>
+              <a href="#details-panel" class="close">Cerrar</a>
+            </div>
+          </form>
+        </div>
+      </article>
+    </section>
+
+    <!-- EXTRAS -->
+    <section id="extras-panel" class="panel" aria-labelledby="tab-extras">
+      <section class="offers">
+        <h2>Ofertas
+        </h2>
+        <ul>
+          <li>20% OFF en "Cyber Shadow" (hasta 2025-12-01)</li>
+          <li>Bundle "Aventuras RPG" — Pack especial</li>
+          <li>Preventa: "Nebula Conflict" — Oferta limitada</li>
+        </ul>
+      </section>
+
+      <section class="gallery" aria-label="Galería">
+        <h2>Galería</h2>
+        <div class="gallery-grid">
+          <img src="VrUrFR.png" alt="Captura 1">
+          <img src="bor2.jpg" alt="Captura 2">
+          <img src="o.jpg" alt="Captura 3">
+          <img src="e.jpg" alt="Captura 4">
+        </div>
+      </section>
+    </section>
+  </main>
+
+  <footer class="site-footer" role="contentinfo">
+    <p>Ian Fernández Gamo - 22/10/2025</p>
+  </footer>
+</body>
+</html>
