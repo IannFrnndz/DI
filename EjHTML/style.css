@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 32px;
+    background: linear-gradient(135deg, #f3f7ff 0%, #eef6ff 50%, #f9fbff 100%);
+}
+
+.contenedor{
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+
+.form-card{
+    background: #ffffff;
+    border-radius: 16px;
+    padding: 28px;
+    -webkit-box-shadow: 0 8px 30px rgba(34, 62, 125, 0.08);
+    box-shadow: 0 8px 30px rgba(34, 62, 125, 0.08);
+    border: 1px solid rgba(20, 41, 90, 0.04);
+}
+
+.form-card h3{
+    margin: 0 0 12px 0;
+    font-weight: 700;
+    color: #12305a;
+}
+
+
+.form-control{
+    border-radius: 10px;
+    border: 1px solid #e3e8f0;
+    padding: 10px 12px;
+}
+.form-control:focus{
+    border-color: #7c9cff;
+    box-shadow: 0 6px 20px rgba(124,156,255,0.12);
+    outline: none;
+    
+}
+
+.form-label{
+    font-weight: 600;
+    color: #284064;
+}
+
+.form-select{
+    border-radius: 10px;
+    border: 1px solid #e3e8f0;
+}
+
+
+.form-text{
+    color: #6b7280;
+}
+
+
+#boton{
+    background: linear-gradient(90deg, #556bff 0%, #7c9cff 100%);
+    border: none;
+    color: #fff;
+    padding: 10px 16px;
+    border-radius: 10px;
+    font-weight: 600;
+    box-shadow: 0 8px 20px rgba(85,107,255,0.16);
+    transition: transform .12s ease, box-shadow .12s ease, opacity .12s ease;
+}
+#boton:hover{ transform: translateY(-2px); opacity: 0.98; }
+#boton:active{ transform: translateY(0); box-shadow: 0 4px 12px rgba(85,107,255,0.12); }
+
+
+.form-check-label{
+    color: #3b4b66;
+    font-weight: 500;
+}
+
+
+@media (max-width: 576px){
+    .form-card{ padding: 18px; border-radius: 12px; }
+}
+
+
+.form-card:hover{ transform: translateY(-3px); transition: transform .14s ease; }
