@@ -1,0 +1,60 @@
+html {
+    background: #333;
+}
+
+.miFormulario {
+    border: solid 2px #ff0000;
+    padding: 10px;
+}
+
+.contenedorInputs {
+    border: solid 2px #00ff00;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    grid-template-rows: 1fr 1fr 1fr 1fr ;
+    grid-template-areas: "nombre apellidos " 
+    "edad edad" 
+    "politica politica" 
+    "opcion opcion"
+    "dni dni"
+    
+    
+;
+}
+
+.inputs{
+    border: solid 2px #0000ff;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+/*
+    input{
+        background: rgb(255, 255, 255);
+    }
+        */
+}
+
+
+.nombre{
+    grid-area: nombre;
+}
+
+.apellidos{
+    grid-area: apellidos;
+}
+.politica{
+    grid-area: politica;
+}
+.edad{
+    grid-area: edad;
+}
+.dni{
+    grid-area: dni;
+}
+.nie{
+    grid-area: nie;
+}
+.opcion{
+    grid-area: opcion;
+}
