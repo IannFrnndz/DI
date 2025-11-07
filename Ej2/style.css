@@ -1,60 +1,148 @@
 html {
     background: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
 }
 
 .miFormulario {
-    border: solid 2px #ff0000;
+    border: solid 1px rgb(255, 255, 255);
     padding: 10px;
+}
+
+.miFormulario button{
+    margin: 15px auto 0 auto; /* arriba, lados auto, abajo opcional */
+    
 }
 
 .contenedorInputs {
-    border: solid 2px #00ff00;
+    border: solid 4px rgb(255, 196, 0);
     padding: 10px;
     display: grid;
-    grid-template-columns: 1fr 1fr ;
-    grid-template-rows: 1fr 1fr 1fr 1fr ;
-    grid-template-areas: "nombre apellidos " 
-    "edad edad" 
-    "politica politica" 
-    "opcion opcion"
-    "dni dni"
-    
-    
-;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-areas: "nombre apellidos"
+        "opcion opcion"
+        "edad edad"
+        "dninie dninie"
+        "politica politica";
+    color: rgb(0, 0, 0);
+    text-align: center;
 }
 
-.inputs{
-    border: solid 2px #0000ff;
+/* From Uiverse.io by arthur_6104 */ 
+.box-button {
+  cursor: pointer;
+  border: 4px solid black;
+  background-color: gray;
+  padding-bottom: 10px;
+  transition: 0.1s ease-in-out;
+  user-select: none;
+}
+
+.button {
+  background-color: #dddddd;
+  border: 4px solid #fff;
+  padding: 3px 8px;
+  text-align: center;
+}
+
+.button span {
+  font-size: 1.2em;
+  letter-spacing: 1px;
+}
+
+.box-button:active {
+  padding: 0;
+  margin-bottom: 10px;
+  transform: translateY(10px);
+}
+
+
+
+
+.dninie {
+    display: grid;
+    grid-area: dninie;
+    background: #f57878;
+}
+
+.nombre {
+    display: grid;
+    grid-area: nombre;
+    background: #7aebff;
+}
+
+.apellidos {
+    display: grid;
+    grid-area: apellidos;
+    background: #ffe77a;
+}
+
+.edad {
+    display: grid;
+    grid-area: edad;
+    background: #7aff85;
+}
+
+/* .dni {
+    display: grid;
+    grid-area: dni;
+}
+
+.nie {
+    display: grid;
+    grid-area: nie;
+} */
+
+.politica {
+    display: grid;
+    grid-area: politica;
+    background: #977aff;
+
+}
+
+.opcion {
+    display: grid;
+    grid-area: opcion;
+    background: #ff7af4;
+}
+
+.inputs {
+    border: solid 1px yellow;
     padding: 10px;
     display: flex;
     flex-direction: column;
-/*
-    input{
-        background: rgb(255, 255, 255);
-    }
-        */
+
 }
 
 
-.nombre{
-    grid-area: nombre;
-}
 
-.apellidos{
-    grid-area: apellidos;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Utilizando el # accedemos al id, si lo hacemos con el punto, accedemos a la clase, lo mejor es utilizar el class para css y el id para js/
+
+.inputs input {
+    background: black;
 }
-.politica{
-    grid-area: politica;
-}
-.edad{
-    grid-area: edad;
-}
-.dni{
-    grid-area: dni;
-}
-.nie{
-    grid-area: nie;
-}
-.opcion{
-    grid-area: opcion;
-}
+*/

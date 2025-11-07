@@ -5,65 +5,68 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
+
     <title>Document</title>
 </head>
 
 <body>
 
-
-
     <form class="miFormulario" id="miFormulario">
+
         <div class="contenedorInputs">
 
             <div class="inputs nombre">
                 <label for="nombre">Nombre</label>
-                <input type="text" name="nombre" id="nombre">
+                <input type="text" name="nombre" id="nombre" required>
             </div>
 
             <div class="inputs apellidos">
                 <label for="apellidos">Apellidos</label>
-                <input type="text" name="apellidos" id="apellidos">
+                <input type="text" name="apellidos" id="apellidos" required>
             </div>
 
             <div class="inputs edad">
                 <label for="edad">Edad</label>
-                <input type="text"  name="edad" id="edad">
-            </div>
-
-            <div class="inputs politica">
-                <label for="politica">Política</label>
-                <input type="checkbox" value="1" name="politica" id="politica">
+                <input type="text" name="edad" id="edad">
             </div>
 
             <div class="inputs opcion">
-                <label for="opcionDNI">DNI</label>
-                <input type="radio" value="dni" name="documento" id="radioDNI">
-                <label for="opcionDNI">NIE</label>
-                <input type="radio" value="nie" name="documento" id="radioNIE">
+                <label for="radioDni">DNI</label>
+                <input type="radio" value="dni" name="documento" id="radioDni">
+                <label for="radioNie">NIE</label>
+                <input type="radio" value="nie" name="documento" id="radioNie">
             </div>
 
-            <div class="inputs dni" id="contenedorDni">
-                <label for="dni">DNI</label>
-                <input type="text" value="dni" name="dni" id="dni">
+            <div class="dninie">
+                <div class="inputs dni" id="contenedorDni">
+                    <label for="dni">DNI</label>
+                    <input type="text" name="dni" id="dni">
+                </div>
+
+                <div class="inputs nie" id="contenedorNie">
+                    <label for="dni">NIE</label>
+                    <input type="text" name="nie" id="nie">
+                </div>
             </div>
 
-            <div class="inputs nie" id="contenedorNie">
-                <label for="nie">NIE</label>
-                <input type="text" value="nie" name="nie" id="nie">
+            <div class="inputs politica">
+                <label for="check">Politica de privacidad</label>
+                <input type="checkbox" value="1" name="politica" id="politica" required>
             </div>
 
 
 
 
-            
+        </div>
 
+        <!-- From Uiverse.io by Peary74 -->
+        <!-- From Uiverse.io by arthur_6104 -->
+        <div class="box-button">
+            <div class="button"><span>Guardar datos</span></div>
         </div>
 
 
     </form>
-
-
-
 
     <script src="index.js"></script>
 </body>
