@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <!-- mis estilos -->
+    <title>Document</title>
+
+</head>
+
+<body>
+
+    <main>
+        <form class="form-control">
+            <!-- email -->
+            <div class="mb-3">
+                <label for="email" class="form-label">Email</label>
+                <input type="email" class="form-control" id="email" aria-describedby="emailHelp" required>
+                <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+            </div>
+
+            <!-- nombre -->
+            <div class="mb-3">
+                <label for="nombre" class="form-label">Nombre</label>
+                <input placeholder="Ingrese su nombre" type="text" class="form-control" id="nombre"
+                    aria-describedby="nombreHelp" required>
+            </div>
+
+            <!-- apellidos -->
+            <div class="mb-3">
+                <label for="apellidos" class="form-label">Apellidos</label>
+                <input placeholder="Ingrese sus apellidos" type="text" class="form-control" id="apellidos"
+                    aria-describedby="apellidosHelp" required>
+            </div>
+
+            <!-- DNI -->
+            <div class="mb-3">
+                <label for="dni" class="form-label">DNI</label>
+                <input placeholder="Ingrese su DNI" type="text" class="form-control" id="dni"
+                    aria-describedby="dniHelp" required>
+            </div>
+            <!-- fecha de nacimiento -->
+            <div class="mb-3">
+                <label for="fechaNacimiento" class="form-label">Fecha de Nacimiento</label>
+                <input type="date" class="form-control" id="fechaNacimiento" aria-describedby="fechaHelp" required>
+            </div>
+
+            <!-- telefono -->
+            <div class="mb-3">
+                <label for="telefono" class="form-label">Teléfono</label>
+                <input placeholder="Ingrese su teléfono" type="tel" class="form-control" id="telefono"
+                    aria-describedby="telefonoHelp" required>
+            </div>
+
+            <!-- Direccion -->
+            <div class="mb-3">
+                <label for="direccion" class="form-label">Direccion</label>
+                <input placeholder="Ingrese su direccion" type="text" class="form-control" id="direccion"
+                    aria-describedby="direccionHelp" required>
+            </div>
+
+            <!-- Localidad -->
+            <div class="mb-3">
+                <label for="localidad" class="form-label">Localidad</label>
+                <input placeholder="Ingrese su localidad" type="text" class="form-control" id="localidad"
+                    aria-describedby="localidadHelp" required>
+            </div>
+
+            <!-- codigo postal -->
+            <div class="mb-3">
+                <label for="codigoPostal" class="form-label">Código Postal</label>
+                <input placeholder="Ingrese su código postal" type="text" class="form-control" id="codigoPostal"
+                    aria-describedby="codigoPostalHelp" required>
+            </div>
+
+            <!-- ciclo formativo -->
+            <div class="mb-3">
+                <label for="cicloFormativo" class="form-label">Ciclo Formativo</label>
+                <select class="form-select" aria-label="Default select example">
+                    <option selected>Elige un ciclo formativo</option>
+                    <option value="1">DAM</option>
+                    <option value="2">DAW</option>
+                    <option value="3">ASIR</option>
+                </select>
+            </div>
+
+            <!-- contraseña -->
+
+            <div class="mb-3">
+                <label for="contraseña" class="form-label">Contraseña</label>
+                <input type="password" class="form-control" id="contraseña" required>
+            </div>
+
+            <div class="mb-3">
+                <label for="exampleInputPassword2" class="form-label">Repetir Contraseña</label>
+                <input type="password" class="form-control" id="exampleInputPassword2" required>
+            </div>
+
+            <div class="mb-3 form-check">
+                <input type="checkbox" class="form-check-input" id="politica" required>
+                <label class="form-check-label" for="politica">Acepto la política de privacidad</label>
+            </div>
+            <button id="boton" type="submit" class="btn btn-primary" disabled>Guardar</button>
+        </form>
+    </main>
+
+
+
+
+    <!-- js bootstrap -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+        crossorigin="anonymous"></script>
+    <!-- mi js -->
+    <script src="index.js"></script>
+</body>
+
+</html>
