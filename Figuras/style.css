@@ -1,0 +1,264 @@
+html {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(26, 26, 26);
+    
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    
+
+
+
+}
+
+section {
+
+    margin-top: 200px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.cuadrado1 {
+    width: 200px;
+    height: 200px;
+    border: lightseagreen 2px solid;
+    transform: rotate(45deg);
+
+
+}
+
+.cuadrado2 {
+    width: 200px;
+    height: 200px;
+    border: lightsalmon 2px solid;
+
+    position: relative;
+    bottom: 100px;
+    right: 100px;
+
+}
+
+.linea1 {
+    width: 400px;
+
+    border: lightseagreen 1px solid;
+
+
+}
+
+.linea2 {
+
+    height: 150px;
+    border: lightsalmon 1px solid;
+
+    position: relative;
+    bottom: 0px;
+    right: 100px;
+
+}
+
+.triangulo-recta1 {
+    width: 100px;
+    border: 1px solid lightseagreen;
+    position: relative;
+    top: 90px;
+
+}
+
+.triangulo-recta2 {
+    height: 200px;
+    border: 1px solid lightsalmon;
+    position: relative;
+    transform: rotate(15deg);
+    right: 80px;
+    bottom: 10px;
+
+}
+
+
+.triangulo-recta3 {
+    height: 200px;
+    border: 1px solid lightgreen;
+    position: relative;
+    transform: rotate(-15deg);
+    right: 28px;
+    bottom: 10px;
+
+}
+
+/* triangulo boca abajo */
+.triangulo-recta4 {
+    width: 100px;
+    border: 1px solid lightseagreen;
+    position: relative;
+    top: -90px;
+    right: 105px;
+}
+
+.triangulo-recta5 {
+    height: 200px;
+    border: 1px solid lightsalmon;
+    position: relative;
+    transform: rotate(15deg);
+    right: 130px;
+    bottom: -10px;
+
+}
+
+.triangulo-recta6 {
+    height: 200px;
+    border: 1px solid lightgreen;
+    position: relative;
+    transform: rotate(-15deg);
+    right: 185px;
+    top: 10px;
+
+}
+
+/* TABLA */
+
+.grid {
+    border: solid lightgray 2px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-areas:
+        "a1 a2 a3 a4 a4 a4 a5"
+        "b6 b6 b6 b6 b7 b8 a5"
+        "c9 c10 c10 c10 c10 c10 c10"
+        "c9 d11 d11 d11 d11 d11 d11"
+        "c9 e12 e12 e12 e12 e12 e12"
+        "c9 f13 f13 f13 f13 f13 f13";
+    border: 1px solid white;
+    width: 700px;
+    height: 500px;
+    
+    color: black;
+    
+
+}
+
+.a1 {
+    grid-area: a1;
+    border: 1px solid lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightblue ;
+}
+
+.a2 {
+    grid-area: a2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid lightblue;
+    background-color: lightcoral ;
+}
+
+.a3 {
+    grid-area: a3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid lightblue;
+    background-color: lightgreen ;
+}
+
+.a4 {
+    grid-area: a4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid lightblue;
+    background-color: lightgoldenrodyellow ;
+}
+
+.a5 {
+    grid-area: a5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid lightblue;
+    background-color: lightsalmon ;
+}
+
+.b6 {
+    grid-area: b6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid lightblue;
+    background-color: lightpink ;
+}
+
+.b7 {
+    grid-area: b7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid lightblue;
+    background-color: lightseagreen ;
+}
+
+.b8 {
+    grid-area: b8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid lightblue;
+    background-color: lightskyblue ;
+}
+
+.c9 {
+    grid-area: c9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid lightblue;
+    background-color: lightsteelblue ;
+}
+
+.c10 {
+    grid-area: c10;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid lightblue;
+    background-color: lightslategrey ;
+}
+
+.d11 {
+    grid-area: d11;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid lightblue;
+    background-color: lightgray ;
+}
+
+.e12 {
+    grid-area: e12;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid lightblue;
+    background-color: lightcyan ;
+}
+
+.f13 {
+    grid-area: f13;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid lightblue;
+    background-color: lightgoldenrodyellow ;
+}
