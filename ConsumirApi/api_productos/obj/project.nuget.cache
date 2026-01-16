@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bFcuCauZ9vw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CAMPUSFP\\Desktop\\DI\\ConsumirApi\\api_productos\\api_productos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CAMPUSFP\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0\\microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "C:\\Users\\CAMPUSFP\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
