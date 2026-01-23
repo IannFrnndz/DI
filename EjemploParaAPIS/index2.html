@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
     <nav style="border: 1px black solid;">
 
@@ -13,7 +15,7 @@
             <li>
                 <a href="index.html">Inicio</a>
             </li>
-            
+
         </ul>
     </nav>
 
@@ -23,7 +25,36 @@
 
     <main style="border: 1px black solid;">
         <section>
-            
+            <fieldset>
+                <legend>
+                    NUEVO PRODUCTO
+                    <form id="formulario">
+                        <div>
+                            <label for="nombre">Nombre</label>
+                            <input type="text" id="nombre" name="nombre">
+                        </div>
+
+                        <div>
+                            <label for="precio">Precio</label>
+                            <input type="text" id="precio" name="precio">
+                        </div>
+
+                        <div>
+                            <label for="categoria">Categoria</label>
+                            <input type="text" id="categoria" name="categoria">
+                        </div>
+
+                        <div>
+                            <label for="urlImagen">URL Imagen</label>
+                            <input type="text" id="urlImagen" name="urlImagen">
+                        </div>
+
+                        <div>
+                            <button type="submit">Enviar</button>
+                        </div>
+                    </form>
+                </legend>
+            </fieldset>
 
         </section>
     </main>
@@ -34,4 +65,5 @@
 
     <script src="index.js"></script>
 </body>
+
 </html>

@@ -35,7 +35,9 @@ fetch("http://localhost:5110/productos")
                     <div class="botones">
                         <button onclick="eilminarProducto( ${producto.id})">Eliminar</button>
                     </div>
-                    
+                    <div class="botones">
+                        <button style="background-color: blue;" onclick="editarProducto( ${producto.id})">Editar</button>
+                    </div>
 
                 </div>`;
             });
@@ -54,3 +56,82 @@ fetch("http://localhost:5110/productos")
         
     }
 
+    if(document.getElementById("formulario")) {
+        let formulario = document.getElementById("formulario");
+
+        formulario.addEventListener("submit", (e) => {
+            e.preventDefault();
+            fetch("http://localhost:5110/productos", {
+                method: 'POST',
+                headers: {"Content-Type": "application/json"},
+                body: JSON.stringify({
+                    nombre: formulario.nombre.value,
+                    precio: Number(formulario.precio.value),
+                    categoria: formulario.categoria.value,
+                    urlImagen: formulario.urlImagen.value
+                })
+            })
+            .then((res) => {
+                if(res.status == 201){
+                    alert("Producto agregado correctamente")
+                    location.href = "index.html";
+                }
+            });
+        });
+    }
+
+    function editarProducto(id) {
+        fetch(`http://localhost:5110/productos`, {
+            method: 'GET'
+            
+        }).then(res => {
+        if (!res.ok) {
+            return;
+        } else {
+            return res.json();
+        }
+    }).then(datos => {
+        let section = document.getElementById("contenedor");
+        location.href = `#formulario`;
+        section.style.display = "none";
+
+        let nombre = document.getElementById("nombre");
+        let precio = document.getElementById("precio");
+        let categoria = document.getElementById("categoria");
+        let urlImagen = document.getElementById("urlImagen");
+
+        id.value = datos.id;
+        nombre.value = datos.nombre;
+        precio.value = datos.precio;
+        categoria.value = datos.categoria;
+        urlImagen.value = datos.urlImagen;
+        
+    }) ;
+
+
+    if(document.getElementById("formulario")) {
+        let formulario = document.getElementById("formulario");
+
+        formulario.addEventListener("submit", (e) => {
+            e.preventDefault();
+            fetch("http://localhost:5110/productos", {
+                method: 'PUT',
+                headers: {"Content-Type": "application/json"},
+                body: JSON.stringify({
+                    id: Number(formulario.id.value),
+                    nombre: formulario.nombre.value,
+                    precio: Number(formulario.precio.value),
+                    categoria: formulario.categoria.value,
+                    urlImagen: formulario.urlImagen.value
+                })
+            })
+            .then((res) => {
+                if(res.status == 201){
+                    alert("Producto agregado correctamente")
+                    location.href = "index.html";
+                }
+            });
+        });
+    }
+}
+    
