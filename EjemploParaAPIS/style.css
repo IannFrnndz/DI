@@ -86,7 +86,23 @@ a:hover{
 }
 
 
-
+.botones{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    
+}
+.botones button{
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    border: none;
+    background-color: #ff6347;
+    color: whitesmoke;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: 0.5s all ease;
+}
 
 
 .contenedor{

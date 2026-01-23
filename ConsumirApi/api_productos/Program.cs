@@ -86,7 +86,7 @@ app.MapPut("/productos", (Producto productoActualizado) =>
     var index = listaProductos.FindIndex(elementoLista => elementoLista.Id == productoActualizado.Id);
     // cambiamos el producto en la lista por el que nos esta llegando
     listaProductos[index] = productoActualizado;
-    return Results.Ok("Producto actualizado correctamente", productoActualizado);
+    return Results.Ok( productoActualizado);
 });
 
 app.MapDelete("/productos/{id:int}", (int id) =>
@@ -97,7 +97,7 @@ app.MapDelete("/productos/{id:int}", (int id) =>
         return Results.NotFound("No se encontro el producto para eliminar");
     }
     listaProductos.Remove(producto);
-    return Results.Ok("Producto eliminado correctamente", producto);
+    return Results.Ok( producto);
 });
 
 app.Run();

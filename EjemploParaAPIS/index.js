@@ -31,6 +31,12 @@ fetch("http://localhost:5110/productos")
                         <p>Precio: $${producto.precio}</p>
                         <p>Categoria: ${producto.categoria}</p>
                     </div>
+
+                    <div class="botones">
+                        <button onclick="eilminarProducto( ${producto.id})">Eliminar</button>
+                    </div>
+                    
+
                 </div>`;
             });
 
@@ -38,3 +44,13 @@ fetch("http://localhost:5110/productos")
             return;
         }
     })
+
+    function eilminarProducto(id) {
+        if(confirm("¿Estás seguro de que deseas eliminar este producto?")){
+            fetch(`http://localhost:5110/productos/`+id, {
+            method: 'DELETE',
+        }).then(()=> location.reload());
+        }
+        
+    }
+
