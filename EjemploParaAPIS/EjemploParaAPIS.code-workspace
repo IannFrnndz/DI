@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../ConsumirApi/api_productos"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "EjemploParaAPIS"
+	}
+}
