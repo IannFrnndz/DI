@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../RepasoExamen/RepasoExamen"
+		},
+		{
+			"path": "../../ConsumirApi/api_productos"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}

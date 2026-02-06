@@ -41,6 +41,7 @@ app.MapGet("/productos/{id:int}", (int id) =>
 
 });
 
+// ruta para crear un producto
 app.MapPost("/productos", (ProductoCrear nuevoProducto) =>
 {
     if (string.IsNullOrWhiteSpace(nuevoProducto.Nombre)) 
@@ -75,6 +76,8 @@ app.MapPost("/productos", (ProductoCrear nuevoProducto) =>
     return Results.Created("si se creo el producto ", productoCreado);
 });
 
+// ruta para actualizar un producto
+
 app.MapPut("/productos", (Producto productoActualizado) =>
 {
     // verificamos si el producto existe
@@ -89,6 +92,8 @@ app.MapPut("/productos", (Producto productoActualizado) =>
     return Results.Ok( productoActualizado);
 });
 
+
+// ruta para eliminar un producto
 app.MapDelete("/productos/{id:int}", (int id) =>
 {
     var producto = listaProductos.FirstOrDefault(elementoDeLista => elementoDeLista.Id == id);
