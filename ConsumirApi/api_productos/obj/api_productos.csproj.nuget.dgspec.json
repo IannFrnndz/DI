@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CAMPUSFP\\Desktop\\DI\\ConsumirApi\\api_productos\\api_productos.csproj": {}
+    "C:\\Users\\CAMPUSFP\\desktop\\DI\\ConsumirAPI\\api_productos\\api_productos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CAMPUSFP\\Desktop\\DI\\ConsumirApi\\api_productos\\api_productos.csproj": {
+    "C:\\Users\\CAMPUSFP\\desktop\\DI\\ConsumirAPI\\api_productos\\api_productos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CAMPUSFP\\Desktop\\DI\\ConsumirApi\\api_productos\\api_productos.csproj",
+        "projectUniqueName": "C:\\Users\\CAMPUSFP\\desktop\\DI\\ConsumirAPI\\api_productos\\api_productos.csproj",
         "projectName": "api_productos",
-        "projectPath": "C:\\Users\\CAMPUSFP\\Desktop\\DI\\ConsumirApi\\api_productos\\api_productos.csproj",
+        "projectPath": "C:\\Users\\CAMPUSFP\\desktop\\DI\\ConsumirAPI\\api_productos\\api_productos.csproj",
         "packagesPath": "C:\\Users\\CAMPUSFP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CAMPUSFP\\Desktop\\DI\\ConsumirApi\\api_productos\\obj\\",
+        "outputPath": "C:\\Users\\CAMPUSFP\\desktop\\DI\\ConsumirAPI\\api_productos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

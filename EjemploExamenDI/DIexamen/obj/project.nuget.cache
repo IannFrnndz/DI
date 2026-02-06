@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "deoyvSd1IjA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CAMPUSFP\\Desktop\\DI\\EjemploExamenDI\\DIexamen\\DIexamen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CAMPUSFP\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0\\microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "C:\\Users\\CAMPUSFP\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

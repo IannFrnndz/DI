@@ -1,0 +1,6 @@
+@DIexamen_HostAddress = http://localhost:5139
+
+GET {{DIexamen_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

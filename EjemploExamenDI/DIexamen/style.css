@@ -1,0 +1,37 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: grid;
+    grid-template-rows: 100px, 200px, auto, 200px;
+    grid-template-columns: 100%;
+    grid-template-areas: 
+        "nav"
+        "header"
+        "main"
+        "footer";
+}
+
+nav{
+    grid-area: nav;
+    display: grid;
+}
+
+header{
+    grid-area: header;
+    display: grid;
+    background-color: lightblue;
+}
+
+main{
+    grid-area: main;
+    display: grid;
+}
+footer{
+    grid-area: footer;
+    display: grid;
+}

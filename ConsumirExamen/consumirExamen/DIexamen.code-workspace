@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../EjemploExamenDI/DIexamen"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "consumirExamen"
+	}
+}
